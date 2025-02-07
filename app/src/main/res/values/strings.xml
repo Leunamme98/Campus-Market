@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CAMPUS MARKET</string>
+
+    <string name="intro_title"><font color="#fdb912">Campus Market</font></string>
+
+    <string name="intro_sub_title">
+    La référence de tous les étudiants pour leurs achats et ventes de produits !</string>
+
+    <string name="let_s_get_started"><b><font color="#000000">Commencer</font></b></string>
+
+    <string name="signing">Déjà un compte ? <font color="#fdb912">Connectez-vous</font></string>
+
+    <string name="image_d_accueil">Image d\'accueil</string>
+
+    <string name="image_acc">Image d\'accueil de l\'application</string>
+
+    <string name="description_nom">Nom de Campus Market</string>
+
+    <string name="recommendation">Recommendation</string>
+
+    <string name="see_all">See all</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_order">My Order</string>
+
+    <string name="wishlist">Wishlist</string>
+
+    <string name="cart">Cart</string>
+
+    <string name="explorer">Explorer</string>
+
+    <string name="annonces">Annonces</string>
+
+    <string name="pas_de_compte_cr_er_un_compte">Pas de compte ?<font color="#fdb912"> Créer un compte !</font></string>
+    <string name="email_ou_identifiant">Email ou Identifiant</string>
+    <string name="mot_de_passe">Mot de passe</string>
+
+    <string name="mot_de_passe_oubli_r_cup_rez_le_ici">Mot de passe oublié ? <font color="#fdb912">Récupérez le ici !</font></string>
+
+    <string name="se_connecter">Se connecter</string>
+
+    <string name="ou">ou</string>
+
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="bonjour_connexion">Connectez-vous à Campus Market !</string>
+
+    <string name="vous_avez_d_j_un_compte_connectez_vous">Vous avez déjà un compte ? <font color="#fdb912">Connectez-vous</font></string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

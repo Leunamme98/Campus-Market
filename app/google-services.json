@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417922345728",
+    "project_id": "campus-market-new",
+    "storage_bucket": "campus-market-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417922345728:android:62487a42d345d2b7fd21e5",
+        "android_client_info": {
+          "package_name": "com.ing3.campusmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uSnM2K8615ldUJqeu9L04VkvPv7bT_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
