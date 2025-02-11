@@ -19,7 +19,9 @@ class LoginActivity : BaseActivity() {
             startActivity(Intent(this, SignUpActivity::class.java))
         }
 
-
+        binding.btnLogin.setOnClickListener {
+            // Aller sur la page du dashboard
+        }
 
     }
 }
