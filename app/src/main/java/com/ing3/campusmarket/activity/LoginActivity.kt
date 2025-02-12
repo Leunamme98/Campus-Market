@@ -23,5 +23,8 @@ class LoginActivity : BaseActivity() {
             // Aller sur la page du dashboard
         }
 
+        binding.tvForgotPassword.setOnClickListener {
+            startActivity(Intent(this, ForgotPasswordActivity::class.java))
+        }
     }
 }
