@@ -2,10 +2,11 @@ package com.ing3.campusmarket.activity
 
 import android.content.Intent
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 import com.ing3.campusmarket.databinding.ActivityLoginBinding
 
-class LoginActivity : BaseActivity() {
+class LoginActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityLoginBinding
 
